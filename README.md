@@ -1,0 +1,3 @@
+## Curso Udemy TypeScript tu completa guía y manual de mano - Prof. Fernando Herrera
+
+<p>Este curso se realiza con el fin de comenzar y profundizar los conocimientos basicos del Transpilador TypeScript para luego continuar y ponerlo en uso extremo al momento de comenzar a Estudiar Angular 8+, Si quieres ver mis avanzas no olvides visitar mi repositorio en GitHub  <a href="https://github.com/decodev-front">decodev-front</a> el cual contiene la logica de todos los proyectos que eh realizado en está estapa de crecimiento profesional</p>
